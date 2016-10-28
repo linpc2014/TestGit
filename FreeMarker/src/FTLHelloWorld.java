@@ -13,6 +13,7 @@ import freemarker.template.TemplateException;
 public class FTLHelloWorld {
 	public static void main(String[] args) {
 		//Freemarker configuration object
+		//dfsgdfgsd
 		Configuration cfg = new Configuration();
 		try {
 			//Load template from source folder
